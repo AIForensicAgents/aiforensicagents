@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🔍 AI Forensic Agents
 
-<!--
-**AIForensicAgents/aiforensicagents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aiforensicagents/aiforensicagents/main/profile.png" width="300" alt="AI Forensic Agent - Nerdy Robot Detective" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><em>just a nerdy lil robot investigating digital dumpster fires 🔥🤖</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+AI-powered forensic analysis agents. We investigate, we analyze, we vibe. ✨
